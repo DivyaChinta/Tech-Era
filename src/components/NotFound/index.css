@@ -1,0 +1,16 @@
+.notFound {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.notFound img {
+  width: 300px;
+  margin-top: 30px;
+}
+.notFound h1 {
+  color: #1e293b;
+}
+.notFound p {
+  color: #475569;
+}
